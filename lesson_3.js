@@ -103,6 +103,25 @@
 //   i++;
 // }
 
+// do {
+//     console.lof(i);
+//   } while(false);
+
+// let i = 0;
+// while(true) {
+//   if (i<30) {
+//     i+=1;
+//   } else {
+//     break;
+//   }
+//   console.log(i);
+// }
+
+// for(let i = 0; i <=5; i++) {
+//     if( i === 1 || i === 3) continue;
+//     console.log(i);
+//   }
+
 // const arr = [1, 3, 5, 6, 9, 12, 14, 16, 17, 18, 21, 25, 65, 37];
 
 // const result = [];
@@ -126,20 +145,4 @@
 //     console.log("Hello");
 // }
 
-// let totalCarsNumber = 100;
-// let carsEveryDay = totalCarsNumber / 2;
-// let days = 1;
-// const finalNumber = 5;
 
-// while (carsEveryDay > finalNumber) {
-//     carsEveryDay = carsEveryDay / 2; 
-//     days++;
-// }
-// console.log(days);
-
-// let i=0;
-// for(let year = 1800; year<2022; year++) {
-//     if (year === 1961) {
-//         console.log(`The first journey into outer space ${year}, ${i}`);
-//     } else i++
-// }
